@@ -4,7 +4,9 @@
 
 <h2>My Stats📊:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruizard&theme=synthwave)](https://github.com/Cruizard/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruizard&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 <!--
 
 - 🔭 I’m currently working on ...
