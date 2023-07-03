@@ -1,9 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there! Welcome to my github profile</h1>
+🔭 Currently a student at Institut Teknologi Sepuluh Nopember, Surabaya.<br>
+💻 Learning Fullstack developement amongst other things
 
+<h2>My Stats📊:</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruizard&theme=synthwave)](https://github.com/Cruizard/github-readme-stats)
 <!--
-**Cruizard/Cruizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
