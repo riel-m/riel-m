@@ -4,8 +4,8 @@
 
 <h2>My Stats📊:</h2>
 
-![](https://github-readme-stats.vercel.app//api?username=Cruizard&count_private=true&show_icons=true&theme=synthwave&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cruizard&theme=synthwave&hide_border=false)  
+<!-- ![](https://github-readme-stats.vercel.app//api?username=Cruizard&count_private=true&show_icons=true&theme=synthwave&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cruizard&theme=synthwave&hide_border=false)  --> --uncomment when uh... secure :D
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cruizard&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
