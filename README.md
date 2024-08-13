@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! Welcome to my github profile</h1>
-🔭 Currently a student at Institut Teknologi Sepuluh Nopember, Surabaya.<br>
+🔭 Computer Science tudent at Institut Teknologi Sepuluh Nopember, Surabaya and Asia University, Taiwan<br>
 💻 Currently Learning 
 <li> Fullstack developement
-<li> Swift for iOS mobile development
+<li> Swift focusing on iOS mobile development
 
 <h2>My Stats📊:</h2>
 
