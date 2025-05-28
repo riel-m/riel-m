@@ -3,6 +3,7 @@
 💻 Currently Learning 
 <li> Fullstack developement
 <li> Swift focusing on iOS mobile development
+<li> Trying (read:struggling) to switch to nvim
 
 <h2>My Stats📊:</h2>
 
