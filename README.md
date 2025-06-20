@@ -1,8 +1,9 @@
 <h1 align="center">Hi there! Welcome to my github profile</h1>
 🔭 Computer Science tudent at Institut Teknologi Sepuluh Nopember, Surabaya and Asia University, Taiwan<br>
 💻 Currently Learning 
-<li> Fullstack developement
-<li> Swift focusing on iOS mobile development
+<li> Go-lang
+<li> C
+<li> Swift focusing on iOS mobile development (ok the side)
 <li> Trying (read:struggling) to switch to nvim
 
 <h2>My Stats📊:</h2>
