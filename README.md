@@ -4,7 +4,7 @@
 <li> Go-lang
 <li> C
 <li> Swift focusing on iOS mobile development (ok the side)
-<li> Trying (read:struggling) to switch to nvim
+<li> Struggling to switch to nvim
 
 <h2>My Stats📊:</h2>
 
