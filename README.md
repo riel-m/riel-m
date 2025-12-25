@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! Welcome to my github profile</h1>
 🔭 Computer Science tudent at Institut Teknologi Sepuluh Nopember, Surabaya and Asia University, Taiwan<br>
 💻 Currently Learning 
-<li> Go-lang
+<li> Go
 <li> C
 <li> Swift focusing on iOS mobile development (ok the side)
-<li> Struggling to switch to nvim
+<li> vim movements (kinda)
 
 <h2>My Stats📊:</h2>
 
